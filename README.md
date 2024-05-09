@@ -1,7 +1,11 @@
 Project name: Operator-Centered Enhancement of Awareness in Navigation
+
 Project acronym: OCEAN
+
 Call: HORIZON-CL5-2022-D6-01
+
 Topic: HORIZON-CL5-2022-D6-01-08
+
 Type of action: HORIZON-IA
 
 
